@@ -24,8 +24,7 @@
 /* Settings Radios */ .item-26Dhrx:hover,
 /* Settings Switches */ .control-2BBjec:hover,
 /* Settings Powercord Plugins Tab Cards */ .powercord-product:hover,
-/* User Modal */ .avatarWrapperNormal-3wFMbf:hover,
-/* Emoji List Items */ .emojiSpriteImage-TcJnG8:hover
+/* User Modal */ .avatarWrapperNormal-3wFMbf:hover
 {
   transform: scale(var(--HoverScale));
   box-shadow: var(--elevation-high);
@@ -57,8 +56,7 @@
 /* Settings Radios */ .item-26Dhrx,
 /* Settings Switches */ .control-2BBjec,
 /* Settings Powercord Plugins Tab Cards */ .powercord-product,
-/* User Modal */ .avatarWrapperNormal-3wFMbf,
-/* Emoji List Items */ .emojiSpriteImage-TcJnG8
+/* User Modal */ .avatarWrapperNormal-3wFMbf
 {
   transition: var(--EaseType) var(--TransitionTime);
   box-shadow: none;
