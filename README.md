@@ -21,3 +21,7 @@ cd powercord/src/Powercord/themes && git clone https://github.com/devinkid1/Pop/
 ## Stylus
 
 Coming soon.
+
+# License
+
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
