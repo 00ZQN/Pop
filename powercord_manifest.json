@@ -1,0 +1,9 @@
+{
+    "name": "Pop!",
+    "description": "Add more 'pop' to elements.",
+    "version": "1.0.0.0",
+    "author": "Devin#2078",
+    "theme": "index.css",
+    "consent": "false",
+    "license": "MIT"
+}
