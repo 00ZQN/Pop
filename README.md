@@ -1,6 +1,4 @@
-# Pop!
-
-A Discord theme that makes UI elements "pop" out when you hover over them.
+Discord theme that makes UI elements 'pop out' on hover.
 
 # Preview
 
