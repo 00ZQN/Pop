@@ -1,4 +1,4 @@
-# Pop
+# Pop!
 
 A Discord theme that makes UI elements "pop" out when you hover over them.
 
@@ -16,10 +16,6 @@ Open CMD, type this, and then run it.
 ```
 cd powercord/src/Powercord/themes && git clone https://github.com/devinkid1/Pop/
 ```
-
-## BetterDiscord
-
-Coming soon.
 
 ## Stylus
 
