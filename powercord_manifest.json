@@ -1,6 +1,6 @@
 {
     "name": "Pop!",
-    "description": "Add more 'pop' to elements.",
+    "description": "Makes UI elements 'pop out' on hover.",
     "version": "1.0.0.0",
     "author": "Devin#2078",
     "theme": "Pop.theme.css",
