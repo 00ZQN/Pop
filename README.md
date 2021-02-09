@@ -17,12 +17,7 @@ Discord theme that makes UI elements 'pop out' on hover.
 
 ## Stylus
 
-(You will need to know how to make a theme for Stylus)
-
-1. Go to https://discord.com, open Stylus, and then press "Write style for: discord.com".
-2. Name the style "Pop!" or something else if you want.
-3. Copy and paste the CSS code from [here](https://raw.githubusercontent.com/devinkid1/Pop/main/Pop.theme.css) into the right box.
-4. Save the style.
+Coming soon.
 
 # License
 
