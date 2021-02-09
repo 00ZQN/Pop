@@ -1,0 +1,15 @@
+/**
+ * @name Pop!
+ * @author Ultra#2078
+ * @version 1.0.0.0
+ * @description Makes elements 'pop out' on hover.
+ * @authorId 418219211043897344
+*/
+
+@import url("https://github.com/devinkid1/Pop/blob/main/base.css");
+
+:root {
+  --HoverScale: 1.025;
+  --TransitionTime: 0.25s;
+  --EaseType: cubic-bezier(0, 0.75, 0, 1.75);
+}
