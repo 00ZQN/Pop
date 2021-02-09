@@ -9,7 +9,6 @@ A Discord theme that makes UI elements "pop" out when you hover over them.
 # Installation
 
 It is pretty easy to install. Here are 2 different ways to install it.
-Keep in mind this theme is not designed for BetterDiscord, it is for Powercord and Stylus.
 
 ## Powercord
 
