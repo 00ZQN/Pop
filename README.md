@@ -4,20 +4,11 @@ Discord theme that makes UI elements 'pop out' on hover.
 
 [Video](https://i.imgur.com/1fvOejU.mp4)
 
-# Installation
+# Installing
 
-It is pretty easy to install. Here are 2 different ways to install it.
+**Powercord**: `cd powercord/src/Powercord/themes && git clone https://github.com/devinkid1/Pop/`
 
-## Powercord
-
-Open CMD, type this, and then run it.
-```
-cd powercord/src/Powercord/themes && git clone https://github.com/devinkid1/Pop/
-```
-
-## Stylus
-
-Coming soon.
+**BetterDiscord**: https://betterdiscord.net/ghdl?id=3488
 
 # License
 
