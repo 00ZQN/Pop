@@ -2,7 +2,7 @@
 @name         Pop!
 @description  Makes Discord UI elements 'pop out' on hover.
 @author       Devin#2078
-@version      1.0.0.0
+@version      0.1.0
 @preprocessor stylus
 @var number    HScale   "Hover Scale"    1.025
 @var select    TTime   "Transition Time"    [0s, 0.025s*, 0.05s]
