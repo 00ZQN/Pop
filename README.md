@@ -12,12 +12,8 @@ Discord theme that makes UI elements 'pop out' on hover.
 
 ## BetterDiscord
 
-1. Download the theme through this link: https://betterdiscord.net/ghdl?id=3489
+1. Download the theme through this link: [BetterDiscord Theme](https://betterdiscord.net/ghdl?id=3489)
 2. Move the downloaded file to your themes folder.
-
-## Stylus
-
-Coming soon.
 
 # License
 
