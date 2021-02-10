@@ -1,0 +1,31 @@
+/* ==UserStyle==
+@name         Pop!
+@description  Makes Discord UI elements 'pop out' on hover.
+@author       Devin#2078
+@version      1.0.0.0
+@preprocessor stylus
+@var number    HScale   "Hover Scale"    1.025
+@var select    TTime   "Transition Time"    [0s, 0.025s*, 0.05s]
+@var select    EType   "Ease Type"    [cubic-bezier(0, 0.75, 0, 1.75)*, ease-in, ease-out, ease-in-out]
+==/UserStyle== */
+@-moz-document domain("discord.com") {
+/* Imports */
+
+@import url("https://devinkid1.github.io/Pop/base.css");
+
+/* Settings */
+
+:root {
+  /* Hover Scale */
+  
+  --HoverScale: HScale;
+  
+  /* Transition Time */
+  
+  --TransitionTime: TTime;
+  
+  /* Ease Type */
+  
+  --EaseType: EType;
+}
+}
