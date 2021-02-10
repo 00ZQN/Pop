@@ -23,8 +23,7 @@
 /* Discovery Tab Cards */ .loaded-1eBnjq:hover,
 /* Settings Radios */ .item-26Dhrx:hover,
 /* Settings Switches */ .control-2BBjec:hover,
-/* Settings Powercord Plugins Tab Cards */ .powercord-product:hover,
-/* User Modal */ .avatarWrapperNormal-3wFMbf:hover
+/* Settings Powercord Plugins Tab Cards */ .powercord-product:hover
 {
   transform: scale(var(--HoverScale));
   box-shadow: var(--elevation-high);
@@ -55,8 +54,7 @@
 /* Discovery Tab Cards */ .loaded-1eBnjq,
 /* Settings Radios */ .item-26Dhrx,
 /* Settings Switches */ .control-2BBjec,
-/* Settings Powercord Plugins Tab Cards */ .powercord-product,
-/* User Modal */ .avatarWrapperNormal-3wFMbf
+/* Settings Powercord Plugins Tab Cards */ .powercord-product
 {
   transition: var(--EaseType) var(--TransitionTime);
   box-shadow: none;
