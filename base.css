@@ -1,6 +1,6 @@
 /* ---- Hover Animations ---- */
 
-/* Buttons */ button:hover,
+/* Buttons */ button:not(.barButtonMain-3K-jeJ):hover,
 /* Settings List Items */ .item-PXvHYJ:hover,
 /* Direct Message List Items */ .channel-2QD9_O:hover,
 /* Member List Items */ .member-3-YXUe:hover,
@@ -32,7 +32,7 @@
 
 /* ---- Static Animations ---- */
 
-/* Button Types */ button,
+/* Button Types */ button:not(.barButtonMain-3K-jeJ),
 /* Settings List Items */ .item-PXvHYJ,
 /* Direct Message List Items */ .channel-2QD9_O,
 /* Member List Items */ .member-3-YXUe,
